@@ -1,1 +1,3 @@
- You can access this project @ - <a href="bhuvneshdev.com/javascript30/02-JS-and-CSS-Clock/"> Go to Project</a>
+#Day 1 - Drum Kit
+
+#Day 2 - JS + CSS Clock
